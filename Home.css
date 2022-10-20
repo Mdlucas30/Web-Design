@@ -1,0 +1,63 @@
+body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtYpFJ-y1lENei-39xDdgsajI6r6h2Mnjis2oly6ZhqskhogZztpT0zEtgKRZyfY4_IF0&usqp=CAU);
+}
+.sheesh a img {
+    margin:-150px 90px;
+    width: 160px; 
+    border:5px solid gold
+}
+h1 {
+    color:gold; size: 50%; 
+    vertical-align:middle;
+    margin:-50px -50px;
+    background-color: brown;
+    width: 103%;margin: -2.5%;
+}
+p {
+    text-align: right;
+    margin: 10px 40px;
+}
+a {
+    color: gold;text-decoration: none;
+}
+h2 {
+    color:gold;
+    background-color: rgb(0, 0, 0); 
+    margin:100px 400px;
+    text-align: center;
+    width: 60%; 
+    position: relative;
+}
+h3 {color: gold;
+    background-color: black;
+    margin:-95px 400px;
+    text-align: center;
+    width: 60%; position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    margin:10px 0px;
+}
+h5{
+    margin:-30px 110px
+}
+.socmed a img{
+    float: left; 
+    width: 6%;
+    margin: 135px -300px;
+}
+.socmed2 a img{
+    float: left; 
+    width: 3%;
+    margin: 140px -230px;
+}
+h6{
+    color: gold;
+    float: left; 
+    background-color: black;
+    margin:150px 90px;
+    font-size: medium;
+    background-size: 0%;
+}
+
+
