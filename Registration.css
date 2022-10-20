@@ -1,0 +1,58 @@
+
+body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtYpFJ-y1lENei-39xDdgsajI6r6h2Mnjis2oly6ZhqskhogZztpT0zEtgKRZyfY4_IF0&usqp=CAU);
+}
+h1 {color:gold; size: 50%; vertical-align:middle;margin:-50px -50px;
+    background-color: brown;width: 103%;margin: -2.5%;
+}
+a {color: gold;text-decoration: none;
+}
+.myDiv { border: 5px outset rgb(17, 5, 5);
+    background-color: gold;    
+    text-align: center; margin: 100px 350px
+}
+h2 p{text-align: left;font-size: medium;
+}
+h3 {text-align: left; font-size: small;
+}
+h5{text-align: center;
+}
+.Days input{float:left; margin: 0px 20px;width: 75px
+}
+.Days p{text-align: left
+}
+.Month input{float:left;margin: 0px -15px;width: 85px
+}
+.Year input{float:left;margin: 0px 20px;width: 75px
+}
+.Gender input{float:right;margin: 0px 45px;width: 200px;
+}
+p{text-align: Center;margin: 10px 40px
+}
+.Address input{width: 550px;
+}
+.Loc input {text-align: center
+}
+.Loc h2{text-align: center;font-size: medium;
+}
+p{text-align: right;
+}
+.additional{text-align: left;
+}
+.additional input{width: 550px; height:100px;
+}
+.submit-clear{text-align: center;color: brown;
+}
+.socmed a img{float: center;
+    
+    width: 11%
+}
+.socmed2 a img{float: center;
+    width: 6%;
+}
+h6{text-align: center;
+    color: gold;
+    background-color: black;
+    margin:80px 0px;
+    font-size: medium;
+    background-size: 0%;
+}
